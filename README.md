@@ -4,4 +4,4 @@
 
 ## Présentation
 
-Je m'appelle ###Enzo Mancini ### et je suis la !
+Je m'appelle **Enzo Mancini** et je suis la !
